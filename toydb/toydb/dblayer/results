@@ -1,0 +1,10 @@
+-----------------------Algorithm 1-------------------------------------
+initializing Final statistics for join are as follows(ALGORITHM=1): Misses = 145143, Accesses = 482003, Miss Rate = 0.301125 Final statistics for select are as follows(ALGORITHM=1): Misses = 17, Accesses = 1203, Miss Rate = 0.014131 err #: -5 in main
+-----------------------Algorithm 2-------------------------------------
+initializing Final statistics for join are as follows(ALGORITHM=2): Misses = 32, Accesses = 482003, Miss Rate = 0.000066 Final statistics for select are as follows(ALGORITHM=2): Misses = 17, Accesses = 1203, Miss Rate = 0.014131 err #: -5 in main
+-----------------------Algorithm 3-------------------------------------
+initializing Final statistics for join are as follows(ALGORITHM=3): Misses = 488, Accesses = 482003, Miss Rate = 0.001012 Final statistics for select are as follows(ALGORITHM=3): Misses = 17, Accesses = 1203, Miss Rate = 0.014131 err #: -5 in main
+-----------------------Algorithm 4-------------------------------------
+initializing Final statistics for join are as follows(ALGORITHM=4): Misses = 82, Accesses = 482003, Miss Rate = 0.000170 Final statistics for select are as follows(ALGORITHM=4): Misses = 17, Accesses = 1203, Miss Rate = 0.014131 err #: -5 in main
+-----------------------Algorithm 5-------------------------------------
+initializing Final statistics for join are as follows(ALGORITHM=5): Misses = 920, Accesses = 482003, Miss Rate = 0.001909 Final statistics for select are as follows(ALGORITHM=5): Misses = 17, Accesses = 1203, Miss Rate = 0.014131 err #: -5 in main

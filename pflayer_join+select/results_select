@@ -1,0 +1,30 @@
+instances= 100 timeinstances= 100
+Avg misses for lru = 82.99
+Avg time for lru = 0.11297944
+
+instances= 100 timeinstances= 100
+Avg misses for mru = 82.57
+Avg time for mru = 0.18378263
+
+
+instances= 100 timeinstances= 100
+Avg misses for lfu = 81.87
+Avg time for lfu = 0.1658869
+
+instances= 100 timeinstances= 100
+Avg misses for fifo = 82.16
+Avg time for fifo = 0.11084317
+
+
+
+
+instances= 100 timeinstances= 100
+Avg misses for belady = 64.36
+Avg time for belady = 0.32624959
+
+
+
+
+instances= 100 timeinstances= 100
+Avg misses for random = 82.35
+Avg time for random = 0.14534716

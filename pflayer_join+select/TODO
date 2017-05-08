@@ -1,0 +1,2 @@
+PFbufGet(fd,pagenum,fpage,readfcn,writefcn) :
+		PFerrno = PFE_PAGEFIXED;// TODO: check if frequency should be incremented
